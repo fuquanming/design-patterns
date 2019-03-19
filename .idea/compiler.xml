@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="factory" />
+        <module name="prototype" />
         <module name="singleton" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
       <module name="factory" target="1.8" />
+      <module name="prototype" target="1.8" />
       <module name="singleton" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -20,6 +22,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo" options="-parameters" />
       <module name="factory" options="-parameters" />
+      <module name="prototype" options="-parameters" />
       <module name="singleton" options="-parameters" />
     </option>
   </component>
