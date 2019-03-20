@@ -12,6 +12,7 @@
         <module name="proxy" />
         <module name="singleton" />
         <module name="strategy" />
+        <module name="template" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +23,7 @@
       <module name="proxy" target="1.8" />
       <module name="singleton" target="1.8" />
       <module name="strategy" target="1.8" />
+      <module name="template" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -33,6 +35,7 @@
       <module name="proxy" options="-parameters" />
       <module name="singleton" options="-parameters" />
       <module name="strategy" options="-parameters" />
+      <module name="template" options="-parameters" />
     </option>
   </component>
 </project>

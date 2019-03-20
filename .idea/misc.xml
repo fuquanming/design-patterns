@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/proxy/pom.xml" />
         <option value="$PROJECT_DIR$/delegate/pom.xml" />
         <option value="$PROJECT_DIR$/strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/template/pom.xml" />
       </list>
     </option>
   </component>
