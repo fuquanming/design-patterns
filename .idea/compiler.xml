@@ -10,6 +10,7 @@
         <module name="decorator" />
         <module name="delegate" />
         <module name="factory" />
+        <module name="observer" />
         <module name="prototype" />
         <module name="proxy" />
         <module name="singleton" />
@@ -23,6 +24,7 @@
       <module name="delegate" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="factory" target="1.8" />
+      <module name="observer" target="1.8" />
       <module name="prototype" target="1.8" />
       <module name="proxy" target="1.8" />
       <module name="singleton" target="1.8" />
@@ -37,6 +39,7 @@
       <module name="delegate" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="factory" options="-parameters" />
+      <module name="observer" options="-parameters" />
       <module name="prototype" options="-parameters" />
       <module name="proxy" options="-parameters" />
       <module name="singleton" options="-parameters" />
